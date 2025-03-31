@@ -1,0 +1,18 @@
+In this file im trying to upload this file into my GItHUb . when im saving this file after its shows like a U symbol.
+
+thats means its an untracted file.  using these ommand you can those details
+
+
+git status.
+
+
+PS C:\Users\selvakumar.a\Desktop\COpy from Git to Local\GitHubLearning> git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        UploadingFile.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
+PS C:\Users\selvakumar.a\Desktop\COpy from Git to Local\GitHubLearning> 
